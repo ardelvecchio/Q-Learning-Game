@@ -1,1 +1,1 @@
-# projects
+# Q-Learning game
